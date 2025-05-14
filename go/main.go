@@ -1,11 +1,10 @@
 package main
 
-import(
-	"fmt"
-	"github.com/Thiago-C-Lessa/adventofcode/days/day1"
+import (
+	//day1 "aoc2024/day"
+	day2 "aoc2024/day"
 )
 
 func main(){
-	fmt.Println("ola")
-
+	day2.Day2()
 }
